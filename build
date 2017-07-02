@@ -1,1 +1,2 @@
-zip -r9 KernelBuildJ2_v$v.zip * -x README KernelBuildJ2_v$v.zip build
+rm KernelBuildJ2_*.zip
+zip -r9 KernelBuildJ2_v$v.zip * -x README KernelBuildJ2_*.zip build
