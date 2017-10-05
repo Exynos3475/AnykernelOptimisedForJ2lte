@@ -1,2 +1,2 @@
-rm LzKernel_*.zip
-zip -r9 Kernelj2lte_$(date +%b-%d-%Y-%H:%M).zip * -x README LzKernel_*.zip build
+rm *.zip
+zip -r9 Kernelj2lte_$(date +%b-%d-%Y-%H:%M).zip * -x README.md build
