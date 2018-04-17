@@ -1,2 +1,2 @@
 rm *.zip
-zip -r9 Kernelj2lte_$(date +%b-%d-%Y-%H:%M).zip * -x README.md build
+zip -r9 Kernel_on5.zip * -x README.md build
